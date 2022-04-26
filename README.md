@@ -1,16 +1,18 @@
 # **Takım İsmi**
 
-Takım X
+Flutter 193
 
-# Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler: Toplantı yapılacak.
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Mehmet Ali ŞENKAL: Product Owner
+- Pınar FERİKEL: Scrum Master
+- Şeyda GÜNDÜZ: Team Member/Developer
+- Murat KAYA: Team Member/Developer
+- Sude UYĞUN: Team Member/Developer
 
-## Ürün İsmi
+## Ürün İsmi : Sonraki tüm bilgiler güncellenecektir.
 
 --Movie App--
 
