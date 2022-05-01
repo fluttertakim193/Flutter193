@@ -33,7 +33,9 @@ Flutter 193
 - Prime kullanıcıları
 - Sinema severler
 - Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 15 - 65 yaş arası kullanıcılar,
+- // Sınava hazırlanan öğrenciler
+- // Kariyerinde değişiklik yapmak isteyenler
 
 ## Product Backlog URL
 
