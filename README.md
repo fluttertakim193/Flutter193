@@ -65,9 +65,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![2](https://user-images.githubusercontent.com/104432519/166150483-0ac18be2-a4e9-4a61-b576-886287679699.jpg)
 ![3](https://user-images.githubusercontent.com/104432519/166150486-dd18d8a9-e46d-4f61-98e0-a1f8b719f6fa.jpg)
 ![4](https://user-images.githubusercontent.com/104432519/166150490-d14df152-9a0b-4d13-a780-711d5ff4b3a6.jpg)
--
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
