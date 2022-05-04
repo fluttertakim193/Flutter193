@@ -63,11 +63,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 ![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
 
 - **Ürün Durumu**: Ekran görüntüleri:
-- ![1](https://user-images.githubusercontent.com/104432519/166150479-99e09c30-ddc8-4ce7-9238-eaf3bf61fbd0.jpg)
-![2](https://user-images.githubusercontent.com/104432519/166150483-0ac18be2-a4e9-4a61-b576-886287679699.jpg)
-![3](https://user-images.githubusercontent.com/104432519/166150486-dd18d8a9-e46d-4f61-98e0-a1f8b719f6fa.jpg)
-![4](https://user-images.githubusercontent.com/104432519/166150490-d14df152-9a0b-4d13-a780-711d5ff4b3a6.jpg)
-
+![7](https://user-images.githubusercontent.com/104432519/166802728-30122532-fcc0-45ee-8169-f9e0770ffb3c.jpg)
+![2](https://user-images.githubusercontent.com/104432519/166802719-9cf94dd0-f1cd-401f-84dc-cf82208aabb9.jpg)
+![5](https://user-images.githubusercontent.com/104432519/166802723-bb1f9159-7178-4a1f-8734-7456b279c75a.jpg)
 
 - **Sprint Review**: 
 Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
