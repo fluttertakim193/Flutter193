@@ -14,11 +14,11 @@ Flutter 193
 
 ## Ürün İsmi : Sonraki tüm bilgiler güncellenecektir.
 
---Movie App--
+Mesleki Eğilim Testi
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+"Mesleki Eğilim Testi"  projemizde,  özellikle öğrenciler ve diğer kullanıcıların sahip olduğu yetenek, mesleki ilgi ve kişilik özelliklerini keşfetmeyi amaçlayan soruların kullanıcıya yönlendirilerek, sonuç doğrultusunda kişiye ilgili ve yatkın olduğu meslek grubu ile ilgili bir bilgilendirme yapılması hedeflenmektedir.
 
 ## Ürün Özellikleri
 
