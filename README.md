@@ -29,13 +29,11 @@ Mesleki Eğilim Testi
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar,
-- // Sınava hazırlanan öğrenciler
-- // Kariyerinde değişiklik yapmak isteyenler
+- 15 - 20 yaş arası kullanıcılar,
+- İlkokul öğrencileri
+- Ortaokul öğrencileri
+- Sınava hazırlanan öğrenciler
+- Kariyerinde değişiklik yapmak isteyenler
 
 ## Product Backlog URL
 
