@@ -29,7 +29,7 @@ Mesleki Eğilim Testi
 
 ## Hedef Kitle
 
-- 15 - 20 yaş arası kullanıcılar,
+- 14 - 22 yaş arası kullanıcılar,
 - İlkokul öğrencileri
 - Ortaokul öğrencileri
 - Sınava hazırlanan öğrenciler
