@@ -2,7 +2,8 @@
 
 Flutter 193
 
-# Ürün İle İlgili Bilgiler: Toplantı yapılacak.
+# Ürün İle İlgili Bilgiler: 
+"Mesleki Eğilim Testi"  projemizde,  özellikle öğrenciler ve diğer kullanıcıların sahip olduğu yetenek, mesleki ilgi ve kişilik özelliklerini keşfetmeyi amaçlayan soruların kullanıcıya yönlendirilerek, sonuç doğrultusunda kişiye ilgili ve yatkın olduğu meslek grubu ile ilgili bir bilgilendirme yapılması hedeflenmektedir.
 
 ## Takım Elemanları
 
@@ -22,10 +23,9 @@ Mesleki Eğilim Testi
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Kullanıcıya mesleki ilgi ve kişilik ile ilgili sorular sorma 
+- Kullanıcıların sorulara verdiği cevaplar doğrultusunda yatkın ve ilgili olduğu meslek grubu ile ilgili bilgi verme
+- İhtiyaç ve istek doğrultusunda geliştirici ekip ile iletişime geçebilme 
 
 ## Hedef Kitle
 
@@ -34,10 +34,12 @@ Mesleki Eğilim Testi
 - Ortaokul öğrencileri
 - Sınava hazırlanan öğrenciler
 - Kariyerinde değişiklik yapmak isteyenler
+- Mesleki ilgi ve kişilik özelliklerini keşfetmeyi amaçlayan herkes
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board]
+(https://miro.com/welcomeonboard/ZG9GcTNFTEhSTzNOZnFQRGk5NkRHT3BpYzhxempzZHB1MHUycVlKM0lRcWNGVHdtZG15eEZGaVBpRDZzdnhBNHwzNDU4NzY0NTI0NDA3OTgxMTgy?share_link_id=513532598850)
 
 ---
 
