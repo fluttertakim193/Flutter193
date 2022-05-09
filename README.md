@@ -74,7 +74,15 @@ https://github.com/fluttertakim193/Flutter193/tree/main/Daily%20scrums
 ![5](https://user-images.githubusercontent.com/104432519/166802723-bb1f9159-7178-4a1f-8734-7456b279c75a.jpg)
 
 
-
+Sprint Review: 
+Alınan kararlar: Kullanıcıların uygulamaya kaydolabilmesi için belirledikleri e-mail ve şifrelerin tutulduğu bir veritabanı oluşturulmasına karar verilmiştir.
+Kullanıcılara sorulacak soruların ve cevapların tutulduğu bir veritabanı oluşturulmasına karar verilmiştir.
+Uygulamaya eklenebilecek özellikler belirlenmiştir.
+ Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
+ 
+Sprint Retrospective:
+Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+Proje iş-zaman akışının düzenlenmesine karar verilmiştir.
 
 
 # Sprint 2
