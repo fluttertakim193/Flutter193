@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "137335727430",
+    "project_id": "mesleki-egitim-testi",
+    "storage_bucket": "mesleki-egitim-testi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137335727430:android:0596b83bf0924c10bc3147",
+        "android_client_info": {
+          "package_name": "com.example.mesleki_egilim_testi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137335727430-l92pu9ernpbslu4d1nfckf29v6qq1jnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mesleki_egilim_testi",
+            "certificate_hash": "c16c1a48457c63e3ba36e475b874fdba230fa8d0"
+          }
+        },
+        {
+          "client_id": "137335727430-gc6hhg58f814pe29972ho3um35ss30m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnZGEcd697KCX4KLCKnAHPhzo4JvkZ3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137335727430-gc6hhg58f814pe29972ho3um35ss30m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
