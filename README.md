@@ -57,8 +57,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 Sprint 1 için inceleme linki: (https://miro.com/welcomeonboard/ZG9GcTNFTEhSTzNOZnFQRGk5NkRHT3BpYzhxempzZHB1MHUycVlKM0lRcWNGVHdtZG15eEZGaVBpRDZzdnhBNHwzNDU4NzY0NTI0NDA3OTgxMTgy?share_link_id=513532598850) 
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
-
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
 https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/1_daily_scrum_2526%20(1).docx
 https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/2_daily_scrum_2728%20(1).docx
 https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/3_daily_scrum_2930%20(1).docx
