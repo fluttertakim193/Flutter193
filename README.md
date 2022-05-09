@@ -59,6 +59,15 @@ Sprint 1 için inceleme linki: (https://miro.com/welcomeonboard/ZG9GcTNFTEhSTzNO
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/1_daily_scrum_2526%20(1).docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/2_daily_scrum_2728%20(1).docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/3_daily_scrum_2930%20(1).docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/4_daily_scrum_0102%20(1).docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/5_daily_scrum_0304.docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/6_daily_scrum_0506.docx
+https://github.com/fluttertakim193/Flutter193/blob/main/ProjectManagement/Sprint1Documents/7_daily_scrum_0708.docx
+
+
 - **Sprint board update**: Sprint board screenshotları: 
 ![sprint 1-1](https://user-images.githubusercontent.com/104432519/167467119-d941615e-69dd-4e8b-adca-b5985e571bae.png)
 ![sprint 1-2](https://user-images.githubusercontent.com/104432519/167467131-e848e585-a34a-4de2-956a-a35759ef12aa.png)
