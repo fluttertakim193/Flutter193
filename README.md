@@ -1,4 +1,4 @@
-# **Takım İsmi**
+# **EduTech**
 
 Flutter Takım 195
 
