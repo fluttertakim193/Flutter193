@@ -86,6 +86,19 @@ Proje iş-zaman akışının düzenlenmesine karar verilmiştir.
 
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+![WhatsApp Image 2022-05-21 at 14 46 33 (1)](https://user-images.githubusercontent.com/104432519/169700263-a2e8f5ca-907d-4e57-96d1-566d55a836a4.jpeg)
+![WhatsApp Image 2022-05-21 at 14 46 33](https://user-images.githubusercontent.com/104432519/169700264-46156c5d-615b-43a6-a8f2-6bf5737d227e.jpeg)
+
 
 
 ---
