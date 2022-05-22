@@ -96,11 +96,13 @@ Proje iş-zaman akışının düzenlenmesine karar verilmiştir.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
+- **Sprint board update**: Sprint board screenshotları:
+![sprint222](https://user-images.githubusercontent.com/104432519/169700574-5705f5d8-650f-44f7-a568-95fbb3c564aa.JPG)
+![sprint222222222](https://user-images.githubusercontent.com/104432519/169700606-10b7ba8c-4e4e-4311-81a8-0d60883cf616.JPG)
+
+ **Ürün Durumu**: Ekran görüntüleri:
 ![WhatsApp Image 2022-05-21 at 14 46 33 (1)](https://user-images.githubusercontent.com/104432519/169700263-a2e8f5ca-907d-4e57-96d1-566d55a836a4.jpeg)
 ![WhatsApp Image 2022-05-21 at 14 46 33](https://user-images.githubusercontent.com/104432519/169700264-46156c5d-615b-43a6-a8f2-6bf5737d227e.jpeg)
-
-
-
 ---
 
 # Sprint 3
