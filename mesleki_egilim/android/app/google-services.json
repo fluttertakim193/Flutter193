@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "81147524914",
+    "project_id": "mesleki-egilim",
+    "storage_bucket": "mesleki-egilim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81147524914:android:b75191335fffc0f823092b",
+        "android_client_info": {
+          "package_name": "com.example.mesleki_egilim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81147524914-t4vsf2gn1igl8ckqpsnmpj8ti19poko8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mesleki_egilim",
+            "certificate_hash": "c16c1a48457c63e3ba36e475b874fdba230fa8d0"
+          }
+        },
+        {
+          "client_id": "81147524914-q2gojj43m0t1jjthdj91vetol5u755gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbcd8BIX4wstduh3p0NZPY_BnAs7Oxfdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81147524914-q2gojj43m0t1jjthdj91vetol5u755gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
