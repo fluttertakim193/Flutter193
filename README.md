@@ -13,7 +13,7 @@ Flutter Takım 195
 - Murat KAYA: Team Member/Developer
 - Sude UYĞUN: Team Member/Developer
 
-## Ürün İsmi : Sonraki tüm bilgiler güncellenecektir.
+## Ürün İsmi :
 
 Mesleki Eğilim Testi
 
