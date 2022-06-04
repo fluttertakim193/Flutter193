@@ -1,6 +1,6 @@
 # **EduTech**
 
-Flutter Takım 195
+Flutter Takım 193
 
 # Ürün İle İlgili Bilgiler: 
 "Mesleki Eğilim Testi"  projemizde,  özellikle öğrenciler ve diğer kullanıcıların sahip olduğu yetenek, mesleki ilgi ve kişilik özelliklerini keşfetmeyi amaçlayan soruların kullanıcıya yönlendirilerek, sonuç doğrultusunda kişiye ilgili ve yatkın olduğu meslek grubu ile ilgili bir bilgilendirme yapılması hedeflenmektedir.
