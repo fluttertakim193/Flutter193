@@ -120,5 +120,14 @@ Sprint Retrospective: Takım içindeki görev dağılımıyla ilgili düzenleme 
 ---
 
 # Sprint 3
+Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
+Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
+
+Sprint Retrospective: Proje süreci hakkında genel değerlendirme yapılmı. Olumlu ve olumsuz yönler tartışılmıştır.
+
+**Sprint board update**: Sprint board screenshotları:
+![sprint3](https://user-images.githubusercontent.com/104432519/172056035-b2c15cdb-9d11-46d6-8c20-18831d35c991.JPG)
+
+Ekibimizin Logosu: 
 
 ---
