@@ -128,6 +128,7 @@ Sprint Retrospective: Proje süreci hakkında genel değerlendirme yapılmı. Ol
 **Sprint board update**: Sprint board screenshotları:
 ![sprint3](https://user-images.githubusercontent.com/104432519/172056035-b2c15cdb-9d11-46d6-8c20-18831d35c991.JPG)
 
-Ekibimizin Logosu: 
+Ekibimizin Logosu:
+![WhatsApp Image 2022-06-03 at 21 03 53](https://user-images.githubusercontent.com/104432519/172056404-f71cbc8d-8c37-46cb-afa9-2faa3bc128e8.jpeg)
 
 ---
