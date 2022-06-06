@@ -126,12 +126,11 @@ Sprint Retrospective: Takım içindeki görev dağılımıyla ilgili düzenleme 
 
 
 # Sprint 3
-Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
 
-Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
-
+- 
 Sprint 3 için inceleme linki: 
 https://miro.com/app/board/uXjVO4_0GOI=/
 
@@ -166,4 +165,10 @@ Giriş Sayfamız:
 Bize Ulaşın Sayfamız:
 
 ![WhatsApp Image 2022-06-06 at 22 24 34](https://user-images.githubusercontent.com/104432519/172233478-449ca7bf-dd80-45c5-9db0-83acb0858eb3.jpeg)
+
+
+Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
+
+Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
+
 ---
