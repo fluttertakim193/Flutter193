@@ -119,9 +119,24 @@ Sprint Retrospective: Takım içindeki görev dağılımıyla ilgili düzenleme 
 
 ---
 
+
+
+- 
+
+
+
 # Sprint 3
 Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
 Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+
+Sprint 3 için inceleme linki: 
+https://miro.com/app/board/uXjVO4_0GOI=/
+
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği word olarak Readme'de tarafımızdan paylaşılmaktadır:
+https://github.com/fluttertakim193/Flutter193/tree/main/Daily%20scrums
+
 
 Sprint Retrospective: Proje süreci hakkında genel değerlendirme yapılmı. Olumlu ve olumsuz yönler tartışılmıştır.
 
@@ -132,4 +147,22 @@ Ekibimizin Logosu:
 
 ![WhatsApp Image 2022-06-03 at 21 03 53](https://user-images.githubusercontent.com/104432519/172056404-f71cbc8d-8c37-46cb-afa9-2faa3bc128e8.jpeg)
 
+**Ürün Durumu** 
+Ekran Görüntüleri:
+
+Hakkında Sayfamız: 
+
+![WhatsApp Image 2022-06-06 at 22 21 01](https://user-images.githubusercontent.com/104432519/172233449-87403b19-a889-4f6a-bc6c-0cbacbd741d4.jpeg)
+
+Kayıt Ol Sayfamız: 
+
+![WhatsApp Image 2022-06-06 at 22 20 38](https://user-images.githubusercontent.com/104432519/172233453-0888763f-38c3-4b01-a8e6-180bbd99b0f8.jpeg)
+
+Giriş Sayfamız:
+
+![WhatsApp Image 2022-06-06 at 22 20 16](https://user-images.githubusercontent.com/104432519/172233456-5a848b2b-bfa8-4f90-922c-a9b92d10fca5.jpeg)
+
+Bize Ulaşın Sayfamız:
+
+![WhatsApp Image 2022-06-06 at 22 24 34](https://user-images.githubusercontent.com/104432519/172233478-449ca7bf-dd80-45c5-9db0-83acb0858eb3.jpeg)
 ---
