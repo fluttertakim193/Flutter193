@@ -170,8 +170,10 @@ Bize Ulaşın Sayfamız:
 
 ![WhatsApp Image 2022-06-06 at 22 43 51 (1)](https://user-images.githubusercontent.com/104432519/172236428-8f63482e-4e7f-47f4-bc7a-732675782840.jpeg)
 
-Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
+Sprint Review: Alınan kararlar: Uygulamada eklenmesi planlanan 160 sorudan 40 tanesi kullanılmıştır. Kalan soruların uygulamaya eklenmesine ve puanlandırmanın tüm sütunları kapsayacak şekilde yapılmasına karar verilmiştir.
 
 Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
+
+
 
 ---
