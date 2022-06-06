@@ -170,6 +170,18 @@ Bize Ulaşın Sayfamız:
 
 ![WhatsApp Image 2022-06-06 at 22 43 51 (1)](https://user-images.githubusercontent.com/104432519/172236428-8f63482e-4e7f-47f4-bc7a-732675782840.jpeg)
 
+![WhatsApp Image 2022-06-06 at 22 56 38](https://user-images.githubusercontent.com/104432519/172240662-1441910f-043f-4f15-b825-d25f2ff09db7.jpeg)
+
+![WhatsApp Image 2022-06-06 at 22 58 36](https://user-images.githubusercontent.com/104432519/172240673-586c38c0-11f9-47a4-9c56-1c01cfe5a0f6.jpeg)
+
+![WhatsApp Image 2022-06-06 at 22 56 13](https://user-images.githubusercontent.com/104432519/172240682-23a3e128-9f10-4c3a-9ae1-6e98ba2fc171.jpeg)
+
+![WhatsApp Image 2022-06-06 at 22 59 16 (1)](https://user-images.githubusercontent.com/104432519/172240676-6ff6a6db-eaa2-4ab8-832c-23dff3869a84.jpeg)
+
+![WhatsApp Image 2022-06-06 at 23 01 00](https://user-images.githubusercontent.com/104432519/172240678-484e8f8e-a665-41df-9b10-2f8366bcbf4d.jpeg)
+
+
+
 Sprint Review: Alınan kararlar: Uygulamada eklenmesi planlanan 160 sorudan 40 tanesi kullanılmıştır. Kalan soruların uygulamaya eklenmesine ve puanlandırmanın tüm sütunları kapsayacak şekilde yapılmasına karar verilmiştir.
 
 Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
