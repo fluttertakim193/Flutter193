@@ -141,7 +141,7 @@ https://github.com/fluttertakim193/Flutter193/tree/main/Daily%20scrums
 Sprint Retrospective: Proje süreci hakkında genel değerlendirme yapılmı. Olumlu ve olumsuz yönler tartışılmıştır.
 
 **Sprint board update**: Sprint board screenshotları:
-![sprint3](https://user-images.githubusercontent.com/104432519/172056035-b2c15cdb-9d11-46d6-8c20-18831d35c991.JPG)
+![WhatsApp Image 2022-06-06 at 23 10 18](https://user-images.githubusercontent.com/104432519/172240903-a02a7d57-d150-403e-93c1-2b3f1b66275b.jpeg)
 
 Ekibimizin Logosu:
 
@@ -169,6 +169,8 @@ Bize Ulaşın Sayfamız:
 Önceden Oluşturulan Hesap İle Giriş Sayfası
 
 ![WhatsApp Image 2022-06-06 at 22 43 51 (1)](https://user-images.githubusercontent.com/104432519/172236428-8f63482e-4e7f-47f4-bc7a-732675782840.jpeg)
+
+Test Sayfaları:
 
 ![WhatsApp Image 2022-06-06 at 22 56 38](https://user-images.githubusercontent.com/104432519/172240662-1441910f-043f-4f15-b825-d25f2ff09db7.jpeg)
 
