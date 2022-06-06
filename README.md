@@ -127,6 +127,7 @@ Sprint Retrospective: Takım içindeki görev dağılımıyla ilgili düzenleme 
 
 # Sprint 3
 Sprint Review: Alınan kararlar: Uygulamanın mağazaya yüklenmesine karar verilmiştir.
+
 Sprint Review katılımcıları: Şeyda Gündüz, Mehmet Ali Şenkal, Pınar Ferikel, Sude Uyğun, Murat Kaya
 - **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
